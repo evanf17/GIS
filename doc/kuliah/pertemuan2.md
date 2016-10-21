@@ -17,7 +17,7 @@ Data vektor berisi data titik koordinat. Seperti yang kita tau dalam geometri, b
 <br>
 <p align="center">
 <br>
-<img src="../../img/pertemuan2.png.png" width="200" height="400">
+<img src="../../img/pertemuan2.png" width="200" height="400">
 </p><br>
 Jadi, data vektor ini isinya titik, atau bisa juga garis(kumpulan titik), atau bisa juga poligon(kumpulan garis).<br>
 Format dari data vektor adalah .shp (shape file) yang diluncurkan oleh ESRI.<br>
