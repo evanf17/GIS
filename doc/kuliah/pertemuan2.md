@@ -52,3 +52,4 @@ Sebaiknya jika ingin tau lebih banyak tentang mempelajari GIS, alangkah terlebih
 <br>
 Referensi : http://pinterdw.blogspot.co.id/2012/03/pengertian-geospasial.html
 </p>
+
