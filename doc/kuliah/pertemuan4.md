@@ -1,7 +1,7 @@
 <h2 align="center">RETRIEVE DATA GEOSPASIAL - Pertemuan ke-4 GIS<br></h2>
 <p align="center">
 <br>
-<img src="../../img/pertemuan4.jpg" width="400" height="200">
+<img src="../../img/pertemuan4_ilustrasi.JPG" width="400" height="200">
 </p><br>
 <p align="justify">
 <br>
@@ -61,7 +61,7 @@ Adapun Operasi pada shp mengunakan method:<br>
 -	Shapes()<br>
 Contoh dalam menampilkan jumlah record :<br>
 <p align="center">
-<img src="../../img/pertemuan4_shapes.JPG" width="400" height="150">
+<img src="../../img/pertemuan4_shapes.JPG" width="700" height="150">
 </p><br> 
 -	Shape (n), dimana n adalah nomor record.<br>
 <br>
@@ -80,7 +80,7 @@ Adapun operasi pada dbf menggunakan method:<br>
 2.	Buatlah method select, where negara dengan record Indonesia<br>
 <p align="center">
 <br>
-<img src="../../img/pertemuan4_methodselectwhere.JPG" width="400" height="200">
+<img src="../../img/pertemuan4_methodselectwhere.JPG" width="600" height="200">
 </p><br>
 
 <strong>PENUTUP</strong><br>
